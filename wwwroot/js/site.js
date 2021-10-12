@@ -3,7 +3,3 @@
 
 // Write your JavaScript code.
 
-const takeAlert = () => {
-    alert("kliknales");
-}
-    
